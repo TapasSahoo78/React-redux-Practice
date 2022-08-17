@@ -108,8 +108,8 @@ body .container .card:nth-child(3) .face.face2 {
 }
 
 .mycard {
-  display: flex;
-  flex-wrap: wrap;
+  display: flex !important;
+  flex-wrap: wrap !important;
 }
 
 /*# sourceMappingURL=product.css.map */
